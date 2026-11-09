@@ -1,0 +1,935 @@
+cel
+un
+o
+acesta
+acela
+aceștia
+aceia
+meu
+tău
+lui
+ei
+său
+nostru
+lor
+eu
+tu
+el
+ea
+acesta
+noi
+ei
+mă
+îl
+ne
+le
+cine
+ce
+care
+al cui
+pe cine
+unde
+când
+de ce
+cum
+și
+sau
+dar
+deci
+pentru că
+dacă
+deși
+în timp ce
+până când
+de când
+dacă nu
+pentru
+de
+la
+în
+pe
+la
+lângă
+cu
+fără
+din
+în
+pe
+peste
+sub
+între
+printre
+prin
+în timpul
+înainte
+după
+despre
+împotriva
+spre
+peste
+în spatele
+lângă
+dincolo
+aproape
+oprit
+sus
+jos
+afară
+a fi
+a avea
+a face
+a spune
+a merge
+a primi
+a face
+a ști
+a gândi
+a lua
+a vedea
+a veni
+a vrea
+a privi
+a folosi
+a găsi
+a da
+a spune
+a lucra
+a suna
+a încerca
+a întreba
+a avea nevoie
+a simți
+a deveni
+a pleca
+a pune
+a însemna
+a păstra
+a lăsa
+a începe
+a părea
+a ajuta
+a vorbi
+a întoarce
+a porni
+a arăta
+a auzi
+a juca
+a alerga
+a mișca
+a plăcea
+a locui
+a crede
+a ține
+a aduce
+a se întâmpla
+a scrie
+a oferi
+a sta
+a sta în picioare
+a pierde
+a plăti
+a întâlni
+a include
+a continua
+a pune
+a învăța
+a schimba
+a conduce
+a înțelege
+a privi
+a urma
+a opri
+a crea
+a vorbi
+a citi
+a permite
+a adăuga
+a cheltui
+a crește
+a deschide
+a merge pe jos
+a câștiga
+a oferi
+a-și aminti
+a iubi
+a considera
+a apărea
+a cumpăra
+a aștepta
+a servi
+a muri
+a trimite
+a aștepta
+a construi
+a rămâne
+a cădea
+a tăia
+a ajunge
+a ucide
+a rămâne
+a sugera
+a ridica
+a trece
+a vinde
+a necesita
+a raporta
+a decide
+a trage
+a mânca
+a bea
+a dormi
+a cânta
+a dansa
+a înota
+a zbura
+a conduce
+a călări
+a găti
+a spăla
+a curăța
+a plânge
+a râde
+a zâmbi
+a striga
+a șopti
+a căra
+a arunca
+a prinde
+a împinge
+a sparge
+a repara
+a alege
+a uita
+a călători
+a vizita
+a invita
+a accepta
+a refuza
+a spera
+a dori
+a prefera
+a urî
+a se teme
+a se bucura
+a preda
+a studia
+a practica
+a repeta
+a explica
+a descrie
+a răspunde
+a întreba
+a fi de acord
+a se certa
+a rezolva
+a descoperi
+a inventa
+a proteja
+a salva
+a se alătura
+a împărți
+a colecta
+a număra
+a măsura
+a compara
+a verifica
+a testa
+a pregăti
+a organiza
+a produce
+a dezvolta
+a îmbunătăți
+a crește
+a reduce
+a acoperi
+a ascunde
+a purta
+a îmbrăca
+a desena
+a picta
+a urca
+a sări
+a scutura
+a atinge
+a lovi
+a lovi cu piciorul
+a îndoi
+a plia
+a lega
+a alege
+a planta
+a uda
+a arde
+a îngheța
+a topi
+a fierbe
+a amesteca
+a costa
+a câștiga
+a împrumuta
+a împrumuta
+a datora
+a face comerț
+bărbat
+femeie
+copil
+băiat
+fată
+bebeluș
+tată
+mamă
+frate
+soră
+fiu
+fiică
+unchi
+mătușă
+văr
+bunic
+bunică
+soț
+soție
+prieten
+vecin
+familie
+părinte
+persoană
+oameni
+lume
+țară
+oraș
+orășel
+sat
+capitală
+stradă
+drum
+pod
+grădină
+parc
+pădure
+munte
+deal
+vale
+râu
+lac
+mare
+ocean
+plajă
+insulă
+deșert
+câmp
+pământ
+sol
+nisip
+piatră
+stâncă
+Pământ
+foc
+aer
+vânt
+nor
+ploaie
+zăpadă
+furtună
+soare
+lună
+stea
+cer
+vreme
+căldură
+frig
+gheață
+ceață
+copac
+floare
+iarbă
+frunză
+rădăcină
+fruct
+sămânță
+animal
+câine
+pisică
+cal
+vacă
+porc
+oaie
+capră
+pui
+rață
+pasăre
+pește
+șarpe
+iepure
+șoarece
+leu
+tigru
+urs
+lup
+vulpe
+maimuță
+elefant
+insectă
+albină
+fluture
+furnică
+păianjen
+cap
+față
+ochi
+nas
+gură
+ureche
+dinte
+limbă
+păr
+gât
+umăr
+braț
+mână
+deget
+unghie
+piept
+spate
+stomac
+picior
+genunchi
+picior
+piele
+inimă
+sânge
+os
+corp
+sănătate
+boală
+durere
+doctor
+spital
+medicament
+casă
+apartament
+cameră
+bucătărie
+dormitor
+baie
+birou
+ușă
+fereastră
+perete
+acoperiș
+scări
+podea
+pat
+masă
+scaun
+canapea
+dulap
+oglindă
+lampă
+covor
+perdea
+cheie
+pâine
+brânză
+unt
+lapte
+ou
+carne
+șuncă
+supă
+salată
+legumă
+măr
+pară
+portocală
+lămâie
+banană
+căpșună
+strugure
+roșie
+morcov
+ceapă
+usturoi
+cartof
+orez
+paste
+făină
+zahăr
+sare
+piper
+ulei
+oțet
+miere
+tort
+ciocolată
+bomboană
+cafea
+ceai
+suc
+vin
+bere
+mâncare
+mic dejun
+prânz
+cină
+farfurie
+pahar
+ceașcă
+sticlă
+cuțit
+furculiță
+lingură
+oală
+tigaie
+haine
+cămașă
+pantaloni
+fustă
+palton
+jachetă
+pulover
+șosetă
+pantof
+pălărie
+mănușă
+eșarfă
+geantă
+buzunar
+bijuterie
+ochelari
+mașină
+camion
+bicicletă
+motocicletă
+autobuz
+tren
+avion
+barcă
+metrou
+stație
+aeroport
+port
+bilet
+călătorie
+vacanță
+hotel
+valiză
+hartă
+școală
+clasă
+student
+profesor
+lecție
+curs
+carte
+caiet
+pix
+creion
+hârtie
+pagină
+cuvânt
+propoziție
+text
+poveste
+roman
+poem
+ziar
+scrisoare
+mesaj
+exemplu
+problemă
+soluție
+idee
+subiect
+exercițiu
+examen
+notă
+diplomă
+universitate
+știință
+matematică
+fizică
+chimie
+biologie
+geografie
+istorie
+limbă
+muzică
+cântec
+film
+teatru
+pictură
+fotografie
+imagine
+artă
+cultură
+sport
+joc
+echipă
+jucător
+cursă
+victorie
+înfrângere
+job
+carieră
+companie
+șef
+angajat
+muncitor
+fermier
+brutar
+măcelar
+avocat
+judecător
+poliție
+pompier
+asistentă
+inginer
+artist
+scriitor
+cântăreț
+actor
+bani
+dolar
+preț
+salariu
+bancă
+cont
+afacere
+magazin
+magazin
+piață
+client
+produs
+cadou
+petrecere
+zi de naștere
+nuntă
+naștere
+moarte
+religie
+Dumnezeu
+pace
+război
+lege
+drept
+justiție
+libertate
+egalitate
+stat
+guvern
+președinte
+ministru
+rege
+regină
+politică
+alegeri
+vot
+zi
+noapte
+dimineață
+amiază
+seară
+săptămână
+lună
+an
+secol
+oră
+minut
+secundă
+moment
+timp
+ieri
+azi
+mâine
+acum
+mereu
+niciodată
+des
+uneori
+deja
+încă
+curând
+târziu
+devreme
+luni
+marți
+miercuri
+joi
+vineri
+sâmbătă
+duminică
+ianuarie
+februarie
+martie
+aprilie
+mai
+iunie
+iulie
+august
+septembrie
+octombrie
+noiembrie
+decembrie
+primăvară
+vară
+toamnă
+iarnă
+bun
+rău
+frumos
+drăguț
+urât
+mare
+mic
+gras
+slab
+lung
+scurt
+lat
+îngust
+înalt
+scund
+adânc
+greu
+ușor
+puternic
+slab
+tare
+moale
+fierbinte
+cald
+răcoros
+uscat
+ud
+murdar
+plin
+gol
+închis
+nou
+vechi
+tânăr
+antic
+modern
+rapid
+lent
+ușor
+dificil
+simplu
+complicat
+posibil
+imposibil
+adevărat
+fals
+corect
+real
+liber
+singur
+fericit
+trist
+furios
+obosit
+bolnav
+curios
+amabil
+politicos
+timid
+curajos
+deștept
+prost
+nebun
+înțelept
+bogat
+sărac
+faimos
+necunoscut
+important
+util
+inutil
+periculos
+sigur
+calm
+liniștit
+zgomotos
+luminos
+întunecat
+roșu
+albastru
+verde
+galben
+negru
+alb
+gri
+roz
+maro
+mov
+dulce
+amar
+acru
+sărat
+delicios
+mai bun
+mai rău
+cel mai bun
+cel mai rău
+la fel
+alt
+încă unul
+fiecare
+fiecare
+toți
+ambii
+mai mulți
+unii
+oricare
+mulți
+mult
+puțini
+puțin
+destul
+prea
+foarte
+mai mult
+mai puțin
+cel mai mult
+cel mai puțin
+de asemenea
+ca
+bine
+prost
+repede
+încet
+împreună
+aici
+acolo
+peste tot
+nicăieri
+înăuntru
+afară
+deasupra
+dedesubt
+departe
+aproape
+da
+nu
+poate
+vă rog
+mulțumesc
+scuze
+salut
+la revedere
+bun venit
+viață
+prietenie
+bucurie
+fericire
+furie
+tristețe
+vis
+amintire
+gând
+minte
+suflet
+creier
+motiv
+curaj
+forță
+energie
+putere
+adevăr
+minciună
+secret
+noroc
+șansă
+pericol
+risc
+dorință
+plăcere
+efort
+succes
+greșeală
+vină
+crimă
+pedeapsă
+cauză
+efect
+scop
+sens
+cale
+mod
+metodă
+parte
+bucată
+latură
+sfârșit
+început
+mijloc
+centru
+fund
+margine
+suprafață
+formă
+mărime
+greutate
+culoare
+miros
+gust
+zgomot
+sunet
+voce
+tăcere
+umbră
+fum
+cenușă
+metal
+fier
+aur
+argint
+cupru
+lemn
+plastic
+pânză
+bumbac
+lână
+piele
+unealtă
+mașină
+motor
+calculator
+telefon
+ecran
+tastatură
+internet
+site web
+rețea
+tehnologie
+electricitate
+radio
+televizor
+cameră foto
+baterie
+zero
+unu
+doi
+trei
+patru
+cinci
+șase
+șapte
+opt
+nouă
+zece
+unsprezece
+doisprezece
+douăzeci
+treizeci
+patruzeci
+cincizeci
+sută
+mie
+milion
+miliard
+primul
+al treilea
+ultimul
+următorul
