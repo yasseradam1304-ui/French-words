@@ -1,6 +1,6 @@
 # MANY LANGUAGES !
 
-More than 900 popular words in language
+More than 900 popular words in each language
 
 Format : .txt
 
